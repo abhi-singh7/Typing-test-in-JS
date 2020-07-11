@@ -1,1 +1,0 @@
-# Typing-test-in-JS
